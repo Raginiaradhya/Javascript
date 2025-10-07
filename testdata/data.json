@@ -1,0 +1,20 @@
+[{
+    "url" : "https://demoapps.qspiders.com/ui?scenario=1",
+    "name" : "Lisha",
+    "email" : "lisha@gmail.com",
+    "pwd" : "jaanu@143"
+},
+{
+   "url" : "https://demoapps.qspiders.com/ui?scenario=1",
+    "name" : "Janu",
+    "email" : "janu@gmail.com",
+    "pwd" : "lisha@143"
+},
+{
+   "url" : "https://demoapps.qspiders.com/ui?scenario=1",
+    "name" : "Jan1",
+    "email" : "janu1@gmail.com",
+    "pwd" : "lisha1@143"
+}
+
+]
