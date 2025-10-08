@@ -1,6 +1,6 @@
 import{test,expect} from '@playwright/test'
 import path from 'path'
-test.only('upload',async({page})=>
+test('upload',async({page})=>
 {
     await page.goto("https://testautomationpractice.blogspot.com/")
     console.log(__dirname);
@@ -13,7 +13,7 @@ test.only('upload',async({page})=>
     
 })
 
-test.skip('upload multiple file',async({page})=>
+test('upload multiple file',async({page})=>
 {
     await page.goto("https://testautomationpractice.blogspot.com/")
     console.log(__dirname);

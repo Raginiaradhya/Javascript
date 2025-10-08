@@ -29,6 +29,7 @@ test(`customer details ${index+1}`,async({page})=>{
 
 
 
+
     })
 
 
